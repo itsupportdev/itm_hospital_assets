@@ -1,0 +1,2 @@
+[23-Jul-2025 11:16:40 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo for www.example.com failed: Name or service not known in Command line code on line 1
+[23-Jul-2025 11:16:40 UTC] PHP Warning:  file_get_contents(https://www.example.com): Failed to open stream: php_network_getaddresses: getaddrinfo for www.example.com failed: Name or service not known in Command line code on line 1
